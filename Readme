@@ -1,0 +1,5 @@
+# mini_Compare_VCD
+
+为便于波形的自动校验，简易的对比VCD文件工具。
+
+使用了[Verilog_VCD](https://pypi.org/project/Verilog_VCD/)
